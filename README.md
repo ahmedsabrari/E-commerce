@@ -74,7 +74,7 @@ Avant de commencer, assurez-vous d'avoir installé :
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/your-repo/electro.git
+   git clone https://github.com/ahmedsabrari/E-commerce.git
    cd electro/backend
    ```
 
